@@ -1,0 +1,2 @@
+# LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey
+Simulate and Explore de Data Within MINERVA Catalogue
