@@ -4,7 +4,7 @@ Welcome! This repository contains the resources and supplementary materials for 
 
 ## Quick Access Links
 * **[📄 Download Slides](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/slides-and-poster/LARIM_2026_Slides.pdf)**
-* **[📄 Download Poster)](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/slides-and-poster/LARIM_2026_Poster.pdf)**
+* **[📄 Download Poster](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/slides-and-poster/LARIM_2026_Poster.pdf)**
 * **[▶ Launch Interactive Minimum Entropy Simulation](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/shannon-entropy-minimization/simulacion_larim.html)**
 * **[📁 View MINERVA V.1 Catalog (FITS Files)](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/minerva-v1)**
 
