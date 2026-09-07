@@ -3,8 +3,8 @@
 Welcome! This repository contains the resources and supplementary materials for my LARIM presentation. Please select the material you wish to explore using the quick links below, or scroll down for detailed overviews and usage instructions for each tool.
 
 ## Quick Access Links
-* **[📄 Download Slides](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/slides-and-poster/LARIM_2026_Slides.pdf)**
-* **[📄 Download Poster](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/slides-and-poster/LARIM_2026_Poster.pdf)**
+* **[📄 Download Slides](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/slides-and-poster/LARIM_2026_Slides.pdf)**
+* **[📄 Download Poster](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/slides-and-poster/LARIM_2026_Poster.pdf)**
 * **[▶ Launch Interactive Minimum Entropy Simulation](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/shannon-entropy-minimization/simulacion_larim.html)**
 * **[📁 View MINERVA V.1 Catalog (FITS Files)](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/minerva-v1)**
 
@@ -19,8 +19,8 @@ This section contains the digital poster presented at the LARIM conference, alon
 results of the research. This work corresponds to the Master's thesis of Daniel Fajardo-Poveda at Universidad de los Andes, in co-authorship with Alejandro Garcia.
 
 **Access the Materials**
-* **[📄 Download Slides (PDF)](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/slides-and-poster/LARIM_2026_Slides.pdf)**
-* **[📄 Download Poster (PDF)](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/slides-and-poster/LARIM_2026_Poster.pdf)**
+* **[📄 Download Slides (PDF)](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/slides-and-poster/LARIM_2026_Slides.pdf)**
+* **[📄 Download Poster (PDF)](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/slides-and-poster/LARIM_2026_Poster.pdf)**
 
 ---
 
