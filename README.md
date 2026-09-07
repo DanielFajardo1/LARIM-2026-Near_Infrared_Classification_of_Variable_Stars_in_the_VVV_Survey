@@ -1,4 +1,4 @@
-# Simulate and Explote de Data: Daniel Andres Fajardo Poveda
+# Simulate and Explore MINERVA Catalogue
 
 Welcome! This repository contains the resources and supplementary materials for my LARIM presentation. Please select the material you wish to explore:
 
