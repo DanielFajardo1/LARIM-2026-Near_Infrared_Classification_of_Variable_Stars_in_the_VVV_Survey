@@ -23,4 +23,5 @@ classes (CEP-F, RRab, EA, UVAR).
 *(Note: For the full MINERVA V.1 catalog and other analysis tools, please navigate to the main repository root.)*
 
 ## How to access the simulation
-Do not click the `.html` file in this folder directly, as GitHub will only display its source code. **[Click here to open the interactive web version](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/shannon-entropy-minimization/simulacion_larim.html)**.
+Do not click the `.html` file in this folder directly, as GitHub will only display its source code.
+* **[👉 Launch Interactive Minimum Entropy Simulation](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/shannon-entropy-minimization/simulacion_larim.html)**
