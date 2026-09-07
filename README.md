@@ -1,4 +1,4 @@
-# LARIM Presentation Materials: Daniel Andres Fajardo Poveda
+# Simulate and Explote de Data: Daniel Andres Fajardo Poveda
 
 Welcome! This repository contains the resources and supplementary materials for my LARIM presentation. Please select the material you wish to explore:
 
