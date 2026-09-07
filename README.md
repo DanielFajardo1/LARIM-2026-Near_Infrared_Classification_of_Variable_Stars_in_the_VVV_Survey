@@ -3,12 +3,24 @@
 Welcome! This repository contains the resources and supplementary materials for my LARIM presentation. Please select the material you wish to explore using the quick links below, or scroll down for detailed overviews and usage instructions for each tool.
 
 ## Quick Access Links
-
-* **[👉 Launch Interactive Minimum Entropy Simulation](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/shannon-entropy-minimization/simulacion_larim.html)**
+* **[📄 Download Slides](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/slides-and-poster/LARIM_2026_Slides.pdf)**
+* **[📄 Download Poster)](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/slides-and-poster/LARIM_2026_Poster.pdf)**
+* **[▶ Launch Interactive Minimum Entropy Simulation](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/shannon-entropy-minimization/simulacion_larim.html)**
 * **[📁 View MINERVA V.1 Catalog (FITS Files)](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/minerva-v1)**
-* **[📄 Download Presentation Slides](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/blob/main/presentacion.pdf)**
 
 *(Note: The interactive simulation runs entirely in your web browser; no installation is required).*
+
+---
+
+## LARIM 2026 Presentations 
+
+**Overview**
+This section contains the digital poster presented at the LARIM conference, alongside the presentation slides. These materials provide a deeper dive into the methodology and expanded
+results of the research. This work corresponds to the Master's thesis of Daniel Fajardo-Poveda at Universidad de los Andes, in co-authorship with Alejandro Garcia.
+
+**Access the Materials**
+* **[📄 Download Slides (PDF)](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/slides-and-poster/LARIM_2026_Slides.pdf)**
+* **[📄 Download Poster (PDF)](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/slides-and-poster/LARIM_2026_Poster.pdf)**
 
 ---
 
@@ -31,7 +43,7 @@ This interactive HTML simulation allows users to manually explore the trial peri
 *   **Grouped Selection:** Easily navigate through sample stars categorized by their specific variability class.
 
 **Access the Simulation**
-* **[👉 Launch Interactive Minimum Entropy Simulation](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/shannon-entropy-minimization/simulacion_larim.html)**
+* **[▶ Launch Interactive Minimum Entropy Simulation](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/shannon-entropy-minimization/simulacion_larim.html)**
 
 ---
 
@@ -44,11 +56,3 @@ This interactive HTML simulation allows users to manually explore the trial peri
 * **[📁 View MINERVA V.1 Catalog (FITS Files)](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/minerva-v1)**
 
 ---
-
-## Presentation Slides
-
-**Overview**
-*(Space reserved to add a brief summary of the presentation topics covered during the LARIM conference).*
-
-**Access the Slides**
-* **[📄 Download Presentation Slides](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/blob/main/presentacion.pdf)**
