@@ -7,7 +7,7 @@ Welcome! This repository contains the resources and supplementary materials for 
 * **[📄 Download Poster](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/slides-and-poster/LARIM_2026_Poster.pdf)**
 * **[▶ Launch Interactive Minimum Entropy Simulation](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/shannon-entropy-minimization/simulacion_larim.html)**
 * **[▶ Launch Interactive Parameter Space Explorer](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/parameter-space-explorer/minerva_parameter_space.html)**
-* **[📁 View MINERVA V.1 Catalog (FITS Files)](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/minerva-v1)**
+* **[⚠️ View Saturated Stars Morphologies](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/saturation-artifacts/minerva_saturation_effects.html)**
 
 *(Note: The interactive simulation runs entirely in your web browser; no installation is required).*
 
@@ -59,3 +59,17 @@ To effectively separate these populations, the classification framework evaluate
 * **[▶ Launch Interactive Parameter Space Explorer](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/parameter-space-explorer/minerva_parameter_space.html)**
 
 ---
+
+## Saturated Stars Morphologies: Addressing Instrumental Artifacts
+
+In near-infrared astronomical surveys, identifying physical stellar variability requires isolating it from instrumental artifacts. The MINERVA catalog encounters unique structural 
+challenges at the bright end of the Ks-band detection threshold (Ks < 11.5 mag), resulting in artificially distorted light curves.
+
+This phenomenon is primarily driven by two factors:
+* **Nightly Seeing Variations:** Fluctuating atmospheric conditions alter the point spread function (PSF) from night to night. A bright star might saturate the detector under excellent seeing conditions (where light is tightly focused), but remain unsaturated during poor seeing, creating a high-dispersion pseudo-variability effect.
+* **Detector Geometry:** The VIRCAM instrument comprises an array of 16 distinct detector chips (petals). Because each petal has slightly different quantum efficiencies and saturation thresholds, observations of the same star tracking across different petals can trigger sporadic saturation flags.
+
+The resulting morphologies often present truncated peaks (flattened maximum brightness) or extreme, non-physical magnitude scatter. Visualizing these artifacts is crucial for pipeline diagnostics.
+
+* **[⚠️ View Saturated Stars Morphologies](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/saturation-artifacts/minerva_saturation_effects.html)**
+
