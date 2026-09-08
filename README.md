@@ -63,9 +63,6 @@ To effectively separate these populations, the classification framework evaluate
 * **Skewness & Kurtosis:** Statistical moments describing the asymmetry and tailedness of the magnitude distribution.
 * **Eclipse Depth Ratio:** The ratio between the depths of the primary and secondary eclipses, essential for distinguishing contact (EW) from detached (EA) binary systems.
 
-*Preliminary Results Disclaimer: The MINERVA developers are currently fine-tuning the multi-class classification algorithms to maximize accuracy across all near-infrared datasets. The data 
-visualized in this interactive explorer represents a preliminary preview of the catalog's ongoing structural tuning.*
-
 * **[▶ Launch Interactive Parameter Space Explorer](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/parameter-space-explorer/minerva_parameter_space.html)**
 
 ---
