@@ -1,26 +1,14 @@
 # Simulate and Explore MINERVA Catalogue
 
-Welcome! This repository contains the resources and supplementary materials for my LARIM presentation. Please select the material you wish to explore using the quick links below, or scroll down for detailed overviews and usage instructions for each tool.
+Welcome! This repository contains the resources and supplementary materials for the LARIM 2026 presentation on the MINERVA catalog. Please select the interactive tools you wish to explore using the quick links below, or scroll down for detailed overviews and the presentation files.
 
-## Quick Access Links
-* **[📄 Download Slides](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/slides-and-poster/LARIM_2026_Slides.pdf)**
-* **[📄 Download Poster](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/slides-and-poster/LARIM_2026_Poster.pdf)**
+## Interactive Explorers & Simulations
+
+*(Note: All interactive simulations run entirely in your web browser; no installation is required).*
+
 * **[▶ Launch Interactive Minimum Entropy Simulation](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/shannon-entropy-minimization/simulacion_larim.html)**
 * **[▶ Launch Interactive Parameter Space Explorer](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/parameter-space-explorer/minerva_parameter_space.html)**
 * **[⚠️ View Saturated Stars Morphologies](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/saturation-artifacts/minerva_saturation_effects.html)**
-
-*(Note: The interactive simulation runs entirely in your web browser; no installation is required).*
-
----
-
-## LARIM 2026 Presentations 
-
-This section contains the digital poster presented at the LARIM conference, alongside the presentation slides. These materials provide a deeper dive into the methodology and expanded
-results of the research. This work corresponds to the Master's thesis of Daniel Fajardo-Poveda at Universidad de los Andes, in co-authorship with Alejandro Garcia.
-
-**Access the Materials**
-* **[📄 Download Slides (PDF)](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/slides-and-poster/LARIM_2026_Slides.pdf)**
-* **[📄 Download Poster (PDF)](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/slides-and-poster/LARIM_2026_Poster.pdf)**
 
 ---
 
@@ -34,17 +22,11 @@ When analyzing variable star light curves, astronomers test various "trial perio
 
 This interactive HTML simulation allows users to manually explore the trial period grid and visually experience this entropy minimization process in real-time across different variable star classes (CEP-F, RRab, EA, UVAR).
 
-**Access the Simulation**
-* **[▶ Launch Interactive Minimum Entropy Simulation](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/shannon-entropy-minimization/simulacion_larim.html)**
-
 ---
 
 ## Interactive Parameter Space Explorer
 
-The MINERVA catalog categorizes near-infrared variable stars into two primary physical groups: **Radial Pulsators** and **Eclipsing Binaries**. Radial pulsators, such as Fundamental 
-Cepheids (CEP-F) and RR Lyrae (RRab, RRc), are intrinsic variables that physically expand and contract, producing distinct, often asymmetric periodic variations in brightness. Eclipsing 
-binaries (EA, EB, EW) are extrinsic variables consisting of two stars orbiting a common center of mass; their apparent brightness drops when one component blocks the light of the other, 
-creating light curves defined by primary and secondary eclipses. 
+The MINERVA catalog categorizes near-infrared variable stars into two primary physical groups: **Radial Pulsators** and **Eclipsing Binaries**. Radial pulsators, such as Fundamental Cepheids (CEP-F) and RR Lyrae (RRab, RRc), are intrinsic variables that physically expand and contract, producing distinct, often asymmetric periodic variations in brightness. Eclipsing binaries (EA, EB, EW) are extrinsic variables consisting of two stars orbiting a common center of mass; their apparent brightness drops when one component blocks the light of the other, creating light curves defined by primary and secondary eclipses. 
 
 To effectively separate these populations, the classification framework evaluates several physical and statistical metrics:
 
@@ -56,20 +38,26 @@ To effectively separate these populations, the classification framework evaluate
 * **Skewness & Kurtosis:** Statistical moments describing the asymmetry and tailedness of the magnitude distribution.
 * **Eclipse Depth Ratio:** The ratio between the depths of the primary and secondary eclipses, essential for distinguishing contact (EW) from detached (EA) binary systems.
 
-* **[▶ Launch Interactive Parameter Space Explorer](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/parameter-space-explorer/minerva_parameter_space.html)**
+*Preliminary Results Disclaimer: The MINERVA developers are currently fine-tuning the multi-class classification algorithms to maximize accuracy across all near-infrared datasets. The data visualized in this interactive explorer represents a preliminary preview of the catalog's ongoing structural tuning.*
 
 ---
 
 ## Saturated Stars Morphologies: Addressing Instrumental Artifacts
 
-In near-infrared astronomical surveys, identifying physical stellar variability requires isolating it from instrumental artifacts. The MINERVA catalog encounters unique structural 
-challenges at the bright end of the Ks-band detection threshold (Ks < 11.5 mag), resulting in artificially distorted light curves.
+In near-infrared astronomical surveys, identifying physical stellar variability requires isolating it from instrumental artifacts. The MINERVA catalog encounters unique structural challenges at the bright end of the Ks-band detection threshold (Ks < 11.5 mag), resulting in artificially distorted light curves.
 
 This phenomenon is primarily driven by two factors:
 * **Nightly Seeing Variations:** Fluctuating atmospheric conditions alter the point spread function (PSF) from night to night. A bright star might saturate the detector under excellent seeing conditions (where light is tightly focused), but remain unsaturated during poor seeing, creating a high-dispersion pseudo-variability effect.
 * **Detector Geometry:** The VIRCAM instrument comprises an array of 16 distinct detector chips (petals). Because each petal has slightly different quantum efficiencies and saturation thresholds, observations of the same star tracking across different petals can trigger sporadic saturation flags.
 
-The resulting morphologies often present truncated peaks (flattened maximum brightness) or extreme, non-physical magnitude scatter. Visualizing these artifacts is crucial for pipeline diagnostics.
+Crucially, this saturation phenomenon also appears in genuine variable star light curves, severely altering their expected morphological shapes and making them significantly more difficult to identify. Within the presented sample, you will find examples of these saturated variable stars alongside non-variable stars exhibiting high dispersion. The resulting morphologies often present truncated peaks (flattened maximum brightness) or extreme, non-physical magnitude scatter. Visualizing these artifacts is essential for robust pipeline diagnostics.
 
-* **[⚠️ View Saturated Stars Morphologies](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/saturation-artifacts/minerva_saturation_effects.html)**
+---
 
+## LARIM 2026 Presentations 
+
+This section contains the digital poster presented at the LARIM conference, alongside the presentation slides. These materials provide a deeper dive into the methodology and expanded results of the research. This work corresponds to the Master's thesis of Daniel Fajardo-Poveda at Universidad de los Andes, in co-authorship with Alejandro Garcia.
+
+**Access the Materials**
+* **[📄 Download Slides (PDF)](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/slides-and-poster/LARIM_2026_Slides.pdf)**
+* **[📄 Download Poster (PDF)](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/slides-and-poster/LARIM_2026_Poster.pdf)**
