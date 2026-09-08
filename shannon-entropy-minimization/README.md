@@ -13,14 +13,7 @@ phase-folded light curve. By finding the absolute minimum in the entropy periodo
 This interactive HTML simulation allows users to manually explore the trial period grid and visually experience this entropy minimization process in real-time across different variable star 
 classes (CEP-F, RRab, EA, UVAR).
 
-## Features
-*   **Interactive Playback:** Animate the trial period scan to watch the entropy valley being traversed while the light curve dynamically reorganizes.
-*   **Manual Slider:** Drag the slider to see how microscopic changes in the trial period disrupt or reconstruct the light curve structure.
-*   **Snap-to-True-Period:** A quick-action button that instantly aligns the visualization with the deepest entropy minimum (the known catalog period).
-*   **Dark Mode Toggle:** Optimized for auditoriums and professional astronomical software aesthetics.
-*   **Grouped Selection:** Easily navigate through sample stars categorized by their specific variability class.
-
-*(Note: For the full MINERVA V.1 catalog and other analysis tools, please navigate to the main repository root.)*
+*(Note: For the full MINERVA V.1 catalog and other analysis tools, contact the authors.)*
 
 ## How to access the simulation
 Do not click the `.html` file in this folder directly, as GitHub will only display its source code.
