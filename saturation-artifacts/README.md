@@ -8,3 +8,5 @@ This phenomenon is primarily driven by two factors:
 * **Detector Geometry:** The VIRCAM instrument comprises an array of 16 distinct detector chips (petals). Because each petal has slightly different quantum efficiencies and saturation thresholds, observations of the same star tracking across different petals can trigger sporadic saturation flags.
 
 The resulting morphologies often present truncated peaks (flattened maximum brightness) or extreme, non-physical magnitude scatter. Visualizing these artifacts is crucial for pipeline diagnostics.
+
+* **[⚠️ View Saturated Stars Morphologies](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/saturation-artifacts/minerva_saturation_effects.html)**
