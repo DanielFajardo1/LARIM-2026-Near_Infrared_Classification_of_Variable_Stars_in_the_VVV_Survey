@@ -18,4 +18,4 @@ To effectively separate these populations, the classification framework evaluate
 *Preliminary Results Disclaimer: The MINERVA developers are currently fine-tuning the multi-class classification algorithms to maximize accuracy across all near-infrared datasets. The data 
 visualized in this interactive explorer represents a preliminary preview of the catalog's ongoing structural tuning.*
 
-* **[🌌 Launch Interactive Parameter Space Explorer](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/parameter-space-explorer/minerva_parameter_space.html)**
+* **[▶ Launch Interactive Parameter Space Explorer](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/parameter-space-explorer/minerva_parameter_space.html)**
