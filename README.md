@@ -34,13 +34,6 @@ When analyzing variable star light curves, astronomers test various "trial perio
 
 This interactive HTML simulation allows users to manually explore the trial period grid and visually experience this entropy minimization process in real-time across different variable star classes (CEP-F, RRab, EA, UVAR).
 
-**Features**
-*   **Interactive Playback:** Animate the trial period scan to watch the entropy valley being traversed while the light curve dynamically reorganizes.
-*   **Manual Slider:** Drag the slider to see how microscopic changes in the trial period disrupt or reconstruct the light curve structure.
-*   **Snap-to-True-Period:** A quick-action button that instantly aligns the visualization with the deepest entropy minimum (the known catalog period).
-*   **Dark Mode Toggle:** Optimized for auditoriums and professional astronomical software aesthetics.
-*   **Grouped Selection:** Easily navigate through sample stars categorized by their specific variability class.
-
 **Access the Simulation**
 * **[▶ Launch Interactive Minimum Entropy Simulation](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/shannon-entropy-minimization/simulacion_larim.html)**
 
@@ -64,14 +57,5 @@ To effectively separate these populations, the classification framework evaluate
 * **Eclipse Depth Ratio:** The ratio between the depths of the primary and secondary eclipses, essential for distinguishing contact (EW) from detached (EA) binary systems.
 
 * **[▶ Launch Interactive Parameter Space Explorer](https://danielfajardo1.github.io/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/parameter-space-explorer/minerva_parameter_space.html)**
-
----
-## MINERVA V.1 Catalog
-
-**Overview**
-*(Space reserved to add a brief description of the MINERVA catalog, such as its construction, data sources, and variable star classifications).*
-
-**Access the Catalog**
-* **[📁 View MINERVA V.1 Catalog (FITS Files)](https://github.com/DanielFajardo1/LARIM-2026-Near_Infrared_Classification_of_Variable_Stars_in_the_VVV_Survey/tree/main/minerva-v1)**
 
 ---
