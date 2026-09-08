@@ -20,7 +20,7 @@ This interactive demonstration illustrates how the Minimum Entropy Method is uti
 
 When analyzing variable star light curves, astronomers test various "trial periods" to fold the time-series data into phase space. The correct physical period minimizes the Shannon entropy of the phase-folded light curve. By finding the absolute minimum in the entropy periodogram, we can successfully reconstruct the cleanest, least scattered variability pattern.
 
-This interactive HTML simulation allows users to manually explore the trial period grid and visually experience this entropy minimization process in real-time across different variable star classes (CEP-F, RRab, EA, UVAR).
+This interactive HTML simulation allows users to manually explore the trial period grid and visually experience this entropy minimization process in real-time across different variable star classes (Cepheids, RR Lyrae, Eclipsing Binaries).
 
 ---
 
