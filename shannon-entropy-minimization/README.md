@@ -11,7 +11,7 @@ When analyzing variable star light curves, astronomers test various "trial perio
 phase-folded light curve. By finding the absolute minimum in the entropy periodogram, we can successfully reconstruct the cleanest, least scattered variability pattern.
 
 This interactive HTML simulation allows users to manually explore the trial period grid and visually experience this entropy minimization process in real-time across different variable star 
-classes (CEP-F, RRab, EA, UVAR).
+classes (Cepheids, RR Lyrae, Eclipsing Binaries).
 
 *(Note: For the full MINERVA V.1 catalog and other analysis tools, contact the authors.)*
 
